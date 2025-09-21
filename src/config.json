@@ -1,9 +1,10 @@
 {
   "id": "68d02870920cff097bf56940",
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
+  "store_name": null,
   "main_color": "#001637ff",
   "phone": "077696333",
-  "repoName": "rrr",
+  "repoName": "rrr-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
@@ -26,5 +27,9 @@
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
+  },
+  "facebookPixel": {
+    "name": "Y6v6v",
+    "id": "Yc6v6vv"
   }
 }

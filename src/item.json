@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68d029105246a193a5186adb",
+    "userId": "68d02870920cff097bf56940",
+    "name": "Uvuv",
+    "price": 8665,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/BK22kLWw/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-09-21T16:34:24.673Z",
+    "__v": 0
+  }
+]
